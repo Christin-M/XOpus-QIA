@@ -8,7 +8,7 @@ There are three different languages available:
 - Spanish
 
 
-The dataset will be uploaded on 23-06-05.
+Edit: Dataset uploaded on 23-06-05.
 
 
 
